@@ -56,5 +56,4 @@ Results and visualizations may change when the data is refreshed due to differen
 The data used in this project is sourced from publicly available financial data providers and is used strictly for educational and learning purposes.
 This project does not constitute financial advice. Any analysis or results are intended solely to demonstrate data analysis techniques and should not be used for investment decision-making.
 
-The project is organized as follows:
 
