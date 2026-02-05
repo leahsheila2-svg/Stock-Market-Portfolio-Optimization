@@ -45,6 +45,11 @@ Phase-One/
 ├── Output/
 │ └── Charts and visual outputs.
 
+### Daily Closing Prices (Nov 2025 – Feb 2026)
+Below is the line chart showing the daily closing prices of selected global assets.  
+It shows the trend of each asset over the 3-month period for easier comparison.
+![Daily Closing Prices](Output/closing_prices_line.png)
+
 Future phases will include:
 - Integration of official Kenyan market data
 - Portfolio allocation and optimization models
