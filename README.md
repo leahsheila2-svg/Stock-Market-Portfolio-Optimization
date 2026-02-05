@@ -18,7 +18,6 @@ Data is downloaded dynamically from YFinance at the time the scripts are execute
 This ensures that the dataset is up to date, reproducible, and suitable for analysis, while keeping the visualizations neat and readable.
 
 ## Asset Universe Used. 
-### Global Assets (Data sourced from Yahoo Finance)
 - Apple Inc. (AAPL)
 - Microsoft Corporation (MSFT)
 - NVIDIA Corporation (NVDA)
@@ -32,6 +31,7 @@ Due to data availability limitations on YFinance, Kenyan equities are not direct
 
 ## Folder Structure Explanation
 Phase-One/
+
 │
 ├── Data/
 │ ├── Raw/ → Raw stock price data downloaded from YFinance
