@@ -29,7 +29,7 @@ This ensures that the dataset is up to date, reproducible, and suitable for anal
 - Nairobi Securities Exchange 20 Index (NSE 20)
 Due to data availability limitations on YFinance, Kenyan equities are not directly included in the downloaded datasets for this phase. Placeholders are maintained to preserve a global–local portfolio structure and allow seamless inclusion of official NSE data in later phases.
 
-## Folder Structure Explanation
+## Folder Structure Explanation & Return Calculation. 
 Phase-One/
 
 │
@@ -44,6 +44,8 @@ Phase-One/
 │
 ├── Output/
 │ └── Charts and visual outputs.
+
+Daily Return= (Price Today−Price Yesterday) / Price Yesterday​
 
 Future phases will include:
 - Integration of official Kenyan market data
